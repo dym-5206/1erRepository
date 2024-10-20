@@ -4,3 +4,5 @@ Soy Dayam López y me gusta cuidar iguanas.
 Me esta gustando mucho la clase, me revolvi la primera vez pero viendo la repetición puedo retroalimentar mis ideas.
 
 Estudio una Ing. Mecanica en la Facultad de Ingeniería, UNAM pero sigo entusiasmado por cambiarme a Ing. Mecatrónica
+Tal vez pueda incluir aqui paginas html, markdown, (me llamo mucho la atencion esa parte de edición, como un tipo MIT App Inventory), con eso podria guardar tambien
+los codigos que tengo de las clase de python, para cuando vaya a hacer mi cambio de dispositivo
